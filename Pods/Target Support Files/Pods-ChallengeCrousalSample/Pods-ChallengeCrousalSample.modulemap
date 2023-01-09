@@ -1,0 +1,6 @@
+framework module Pods_ChallengeCrousalSample {
+  umbrella header "Pods-ChallengeCrousalSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
